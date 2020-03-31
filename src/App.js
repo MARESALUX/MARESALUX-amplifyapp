@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Applicazione serverless con Front End React e Back End Java Sprind (DB Amazon DynamoDB)
         </a>
       </header>
     </div>
