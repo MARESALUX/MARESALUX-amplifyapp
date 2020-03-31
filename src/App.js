@@ -11,7 +11,8 @@ function App() {
           PRIMO DEPLOY SU CLOUD AWS AMAZON!
         </p>
         
-          Applicazione serverless con Front End React e Back End Java Sprind (DB Amazon DynamoDB)
+          Applicazione serverless con Front End React e Back End Java Spring (DB Amazon DynamoDB)
+        
     
       </header>
     </div>
