@@ -10,14 +10,9 @@ function App() {
         <p>
           PRIMO DEPLOY SU CLOUD AWS AMAZON!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        
           Applicazione serverless con Front End React e Back End Java Sprind (DB Amazon DynamoDB)
-        </a>
+    
       </header>
     </div>
   );
